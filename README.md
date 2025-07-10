@@ -1,6 +1,4 @@
 # 🌌 NASA Open Science 101 
-<img width="451" height="1032" alt="Image" src="https://www.azoquantum.com/image-handler/ts/20241013092313/ri/950/src/images/Article_Images/ImageForArticle_549_17288689857007544.jpg"/>
-
 Welcome to my open notebook for the NASA Open Science 101 Curriculum. This project documents my journey in mastering Open Science principles, tools, and practices to build transparent, collaborative AI research.
 
 ## 🎯 Goal
